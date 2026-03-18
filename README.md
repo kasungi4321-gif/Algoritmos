@@ -1,1 +1,1 @@
-This is below undergraduate level, but if you'd like to give it a try and suggest changes, we welcome your suggestions. btw By the way, I don't know how to update a newer version so that it has its own section, so for now, I'll leave it as is.
+This is below undergraduate level, but if you'd like to give it a try and suggest changes, we welcome your suggestions. btw, I don't know how to update a newer version so that it has its own section, so for now, I'll leave it as is.
